@@ -4,7 +4,7 @@ I am Mehmet, a computer enginnering student and passionate Unity game developer 
 
 - 🔭 I’m currently working on Project Dragon, a Case Study for RPG Genre on Unity.
 - 🌱 I’m currently learning and applying Core Mechanics, Design Patterns, Game Architecture via my personal projects.
-- 👯 I’m looking to contribute on Project Dragon for adding non-human enemies, bosses and mounts and pets update.
+- 👯 I’m looking to contribute on Project Dragon for adding non-human enemies, bosses, mounts and pets update.
 - 💬 Ask me about EVERYTHING about Gaming! We can discuss anything related to the gaming industry.
 - 📫 Feel free to reach me via my mail: mehmetgecen06@gmail.com
 
