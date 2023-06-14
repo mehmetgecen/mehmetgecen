@@ -2,6 +2,10 @@
 
 I am Mehmet, a computer enginnering student and passionate Unity game developer with over 3 years of experience. I specialize in creating 3D games for PC and mobile platforms.
 
+Developed Exergaming for MS patients during undergraduate stage. Exergaming now actively practiced as a treatment for the benefit of MS patients by expert neurologists and physiotherapists.
+
+I am particularly interested in programming gameplay and artificial intelligence based NPC behaviors in game development.
+
 - 🔭 I’m currently working on Project Dragon, a Case Study for RPG Genre on Unity.
 - 🌱 I’m currently learning and applying Core Mechanics, Design Patterns, Game Architecture via my personal projects.
 - 👯 I’m looking to contribute on Project Dragon for adding non-human enemies, bosses, mounts and pets update.
