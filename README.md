@@ -6,9 +6,9 @@ Developed Exergaming for MS patients during undergraduate stage. Exergaming now 
 
 I am particularly interested in programming gameplay and artificial intelligence based NPC behaviors in game development.
 
-- 🔭 I’m currently working on Way of the Wanderer, a Case Study for RPG Genre on Unity.
+- 🔭 I’m currently working on Way of Wanderer, a Case Study for RPG Genre on Unity.
 - 🌱 I’m currently learning and applying Core Mechanics, Design Patterns, Game Architecture via my personal projects.
-- 👯 I’m looking to contribute on Way of the Wanderer for adding non-human enemies, bosses, mounts and pets update.
+- 👯 I’m looking to contribute on Way of Wanderer for adding non-human enemies, bosses, mounts and pets update.
 - 💬 Ask me about EVERYTHING about Gaming! We can discuss anything related to the gaming industry.
 - 📫 Feel free to reach me via my mail: mehmetgecen06@gmail.com
 
