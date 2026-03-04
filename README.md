@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mehmet, a computer enginnering student and passionate Unity game developer with over 3 years of experience. I specialize in creating 3D games for PC and mobile platforms.
+I am Mehmet, a software engineer and passionate Unity developer. I specialize in creating 3D games for PC and mobile platforms.
 
 Developed Exergaming for MS patients during undergraduate stage. Exergaming now actively practiced as a treatment for the benefit of MS patients by expert neurologists and physiotherapists.
 
